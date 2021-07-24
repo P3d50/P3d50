@@ -1,9 +1,9 @@
-### Hi there 👋
+### Olá, me chamo Pedro 👋
 
-**P3d50**
+- 🔭 Atualmente trabalho na DXC Technology como engenheiro de software, atuando com sustentação de sistemas.
+- 🌱 Atualmente estou estudando principalmente Kotlin e Banco de Dados
+- 📫 Como entrar em contato comigo: https://www.linkedin.com/in/pedro-ramos-3b35aaa0/
 
-- 🔭 I’m currently working on DXC Technology as a software engineer, working in application management.
-- 🌱 I’m currently learning Kotlin and Database
-- 📫 How to reach me: https://www.linkedin.com/in/pedro-ramos-3b35aaa0/
-
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=P3d50&show_icons=true&locale=en" alt="P3d50"/>
+<img align="rigt" src="https://github-readme-streak-stats.herokuapp.com/?user=P3d50&" alt="P3d50" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=P3d50&show_icons=true&locale=en&layout=compact" alt="P3d50"/>
