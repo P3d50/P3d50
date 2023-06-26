@@ -4,7 +4,7 @@
 
   - Atualmente, ocupo o cargo de Desenvolvedor Senior na Foursys, onde atuo no desenvolvimento de soluções de software de alta qualidade, aplicando as melhores práticas de arquitetura, design e programação. Minhas responsabilidades são auxiliar o time nas tasks, identificação de pontos críticos, presto apoio ao time em todas as fases do projeto, desde o desenvolvimento até o deploy. Desenvolvimento e entrega de features/serviços e correções.
 
-  - Antes da minha posição atual, trabalhei em empresas como DXC Technology, Mercado Eletrônico e BRAXXY Software & Projetos, onde adquiri experiência em desenvolvimento de software, manutenção e integração de sistemas. Também atuei como Desenvolvedor Java Sênior na Foursys e como Desenvolvedor backend Java na Kron Digital.
+  - Antes da minha posição atual, trabalhei em empresas como DXC Technology, Mercado Eletrônico e BRAXXY Software & Projetos, onde adquiri experiência em desenvolvimento de software, manutenção e integração de sistemas. Também atuei como Tech Lead na Foursys em um projeto e como Desenvolvedor backend Java na Kron Digital.
 
   - Além da minha experiência profissional, estou constantemente aprendendo e me atualizando sobre novas tecnologias e práticas no mercado para aprimorar minhas habilidades.
 
