@@ -1,6 +1,6 @@
 # Olá, me chamo Pedro 👋
 
-  - :man_technologist: Sou profissional de tecnologia com vasta experiência em desenvolvimento de software e liderança técnica. Possuo habilidades sólidas em linguagens de programação como Java, frameworks como Spring Boot, bancos de dados, metodologias ágeis.
+  - :man_technologist: Sou profissional de tecnologia com experiência em desenvolvimento de software e liderança técnica. Possuo habilidades sólidas em linguagens de programação como Java, frameworks como Spring Boot, bancos de dados, metodologias ágeis.
 
   - Atualmente, ocupo o cargo de Desenvolvedor Senior na Foursys, onde atuo no desenvolvimento de soluções de software de alta qualidade, aplicando as melhores práticas de arquitetura, design e programação. Minhas responsabilidades são auxiliar o time nas tasks, identificação de pontos críticos, presto apoio ao time em todas as fases do projeto, desde o desenvolvimento até o deploy. Desenvolvimento e entrega de features/serviços e correções.
 
